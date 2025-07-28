@@ -4,3 +4,4 @@ plotly
 matplotlib
 openai
 python-dotenv
+seaborn
