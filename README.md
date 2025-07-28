@@ -1,7 +1,3 @@
-Absolutely, Husnain! Here's the **rewritten, clean, and correct complete README** for your Titanic chatbot project — with proper badge formatting, Markdown structure, and everything polished:
-
----
-
 # 🚢 Titanic Data Analyst Chatbot
 
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?logo=streamlit\&logoColor=white)](https://streamlit.io/)
@@ -18,12 +14,12 @@ An intelligent, interactive Streamlit app that allows users to explore the Titan
 
 ## ✨ Features
 
-* 🧠 **LLM-powered chatbot** to explore Titanic data using natural language
-* 📊 Auto-generated **charts** using Plotly and Matplotlib
-* 🗂️ Sidebar-based **data filters** and interactive visual explorer
-* 💬 **Chat history** and intelligent **follow-up suggestions**
-* 🧩 Modular, maintainable, component-based structure
-* ☁️ Fully deployed on **Streamlit Cloud**
+* **LLM-powered chatbot** to explore Titanic data using natural language
+* Auto-generated **charts** using Plotly and Matplotlib
+* Sidebar-based **data filters** and interactive visual explorer
+* **Chat history** and intelligent **follow-up suggestions**
+* Modular, maintainable, component-based structure
+* Fully deployed on **Streamlit Cloud**
 
 ---
 
