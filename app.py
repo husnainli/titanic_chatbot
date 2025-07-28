@@ -34,5 +34,4 @@ with main_col:
 
     render_question_input_and_processing(df)
 
-    st.markdown("---")
-    st.markdown("---")
+    st.markdown("""<div style="margin-top: 100px;"></div>""",unsafe_allow_html=True)
