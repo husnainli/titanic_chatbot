@@ -33,3 +33,6 @@ with main_col:
     render_chat_history()
 
     render_question_input_and_processing(df)
+
+    st.markdown("---")
+    st.markdown("---")
