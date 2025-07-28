@@ -6,6 +6,7 @@ def render_suggested_questions_right(df):
     main_col, spacer, right_col = st.columns([4, 0.2, 1])
 
     with right_col:
+        st.markdown("---")
         st.markdown("### Suggested Questions")
 
         for q in st.session_state.sampled_questions:
